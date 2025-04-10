@@ -1,4 +1,4 @@
-# aprender-programar-java-OO
+# ScreenMatch - Projeto Spring sem Web
 Formação Alura: Java Web: crie aplicações usando Spring Boot
 
 Curso 1 - Java: trabalhando com lambdas, streams e Spring Framework
