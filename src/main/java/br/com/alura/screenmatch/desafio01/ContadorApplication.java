@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class ContadorApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
-        SpringApplication.run(ContadorApplication.class, args);
+        // SpringApplication.run(ContadorApplication.class, args);
     }
 
     @Override
