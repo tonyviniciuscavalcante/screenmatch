@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.desafio01;
+package br.com.alura.screenmatch.desafios.desafio01;
 
 import java.util.List;
 

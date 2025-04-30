@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.desafio01;
+package br.com.alura.screenmatch.desafios.desafio01;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.boot.CommandLineRunner;

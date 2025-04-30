@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.desafio01;
+package br.com.alura.screenmatch.desafios.desafio01;
 
 
 //3 - Agora iremos trabalhar com serialização e desserialização. Para isso, você pode reaproveitar seu projeto do exercício 1.
